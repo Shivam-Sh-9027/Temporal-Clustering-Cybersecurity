@@ -139,6 +139,6 @@ Cybersecurity & Data Science Enthusiast
 
 📧 Email: Sharmashiv7055@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/shivam-sharma-523080363
+🔗 LinkedIn: www.linkedin.com/in/shivam-sharma-523080363
 
-💻 GitHub: github.com/Shivam-Sh-9027
+💻 GitHub: www.github.com/Shivam-Sh-9027
