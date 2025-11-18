@@ -77,9 +77,11 @@ git clone https://github.com/Shivam-Sh-9027/Temporal-Clustering-Cybersecurity.gi
 cd Temporal-Clustering-Cybersecurity
 
 ### **2️⃣ Install Dependencies**
+```bash
 pip install -r requirements.txt
 
 ### **3️⃣ Run the Script**
+```bash
 python clustering_analysis.py
 
 🧪 Machine Learning Process (Explained)
