@@ -63,7 +63,7 @@ Temporal-Clustering-Cybersecurity/
 
 > *Scatter plot representing clusters formed using (Hour vs Day of Week)*
 
-If you include your plot, name it `Output.png` and add it here 👇:
+If you include your plot, name it `output.png` and add it here 👇:
 
 
 ---
