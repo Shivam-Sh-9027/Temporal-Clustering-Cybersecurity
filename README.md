@@ -84,6 +84,7 @@ pip install -r requirements.txt
 ```bash
 python clustering_analysis.py
 ```
+---
 🧪 Machine Learning Process (Explained)
 1. Feature Engineering
 
@@ -96,11 +97,11 @@ day_of_week = Timestamp.dt.dayofweek
 month = Timestamp.dt.month
 
 These features capture temporal patterns.
-
+---
 2. Scaling
 
 Used StandardScaler to normalize varying ranges.
-
+---
 3. K-Means Clustering
 kmeans = KMeans(n_clusters=3, random_state=0, n_init=10)
 
@@ -112,11 +113,11 @@ Simple grouping
 Easy visualization
 
 Works well for time-series clustering
-
+---
 4. Visualization
 
 Scatter plot (Hour vs Day) to visualize clusters.
-
+---
 📈 Expected Insights
 
 You can answer:
@@ -130,7 +131,7 @@ Do incidents spike in certain months?
 Which clusters represent dangerous time windows?
 
 This helps SOC analysts, blue teams, and cybersecurity students.
-
+---
 📬 Author
 
 Shivam Sharma (Shiv)
